@@ -1,6 +1,5 @@
 cur_dir=$(cd $( dirname ${BASH_SOURCE[0]} ) && pwd )
 echo $cur_dir
-echo "Joseph"
 root_dir=$cur_dir/../..
 
 cd $root_dir
