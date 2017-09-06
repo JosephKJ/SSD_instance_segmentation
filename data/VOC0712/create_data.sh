@@ -5,7 +5,7 @@ cd $root_dir
 
 redo=1
 data_root_dir="$HOME/data/VOCdevkit"
-dataset_name="VOC0712"
+dataset_name="VOC2007"
 mapfile="$root_dir/data/$dataset_name/labelmap_voc.prototxt"
 anno_type="detection"
 db="lmdb"
