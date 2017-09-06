@@ -4,32 +4,32 @@ item {
   display_name: "background"
 }
 item {
-  name: "pedestrian"
+  name: "Pedestrian"
   label: 1
   display_name: "Pedestrian"
 }
 item {
-  name: "biker"
+  name: "Biker"
   label: 2
   display_name: "Biker"
 }
 item {
-  name: "skater"
+  name: "Skater"
   label: 3
   display_name: "Skater"
 }
 item {
-  name: "car"
+  name: "Car"
   label: 4
   display_name: "Car"
 }
 item {
-  name: "bus"
+  name: "Bus"
   label: 5
   display_name: "Bus"
 }
 item {
-  name: "cart"
+  name: "Cart"
   label: 5
   display_name: "Cart"
 }
